@@ -1,11 +1,11 @@
 ---
-title: Best Practices in scientific software development
+title: Best Practices in geoscientific software development
 theme: moon
 ---
 
 # Best Practices
 
-in scientific software development
+in geoscientific software development
 
 ~
 
