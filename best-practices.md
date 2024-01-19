@@ -15,22 +15,27 @@ _[CSDMS](https://csdms.colorado.edu)_
 ---
 
 ## Learn Python
+1
 
 ---
 
 ## Use version control
+2
 
 ---
 
 ## Learn shell
+3
 
 ---
 
 ## Learn a text editor
+4
 
 ---
 
 ## Share code
+5
 
 ---
 
