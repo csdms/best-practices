@@ -14,28 +14,48 @@ _[CSDMS](https://csdms.colorado.edu)_
 
 ---
 
-## Learn Python
 1
+## Learn Python
+
+\-
+
+> [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)<br><small>[Software Carpentry]</small>
 
 ---
 
-## Use version control
 2
+## Use version control
+
+\-
+
+> [Why should I use version control?](https://stackoverflow.com/q/1408450)<br><small>[Stack Overflow]</small>
 
 ---
 
-## Use the command line
 3
+## Use the command line
+
+\-
+
+> [Five reasons why researchers should learn to love the command line](https://www.nature.com/articles/d41586-021-00263-0)<br><small>[Nature]</small>
 
 ---
 
-## Learn a text editor
 4
+## Learn a text editor
+
+\-
+
+> [Text Editors and Development Environments](https://github.com/csdms/ivy/tree/main/lessons/editors)<br><small>[CSDMS Ivy]</small>
 
 ---
 
-## Share code
 5
+## Share code
+
+\-
+
+> [The Cathedral and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)<br><small>[Eric S. Raymond; Wikipedia]</small>
 
 ---
 
@@ -46,13 +66,3 @@ _[CSDMS](https://csdms.colorado.edu)_
 1. Use the command line
 1. Learn a text editor
 1. Share code
-
----
-
-## Resources
-
-* Python: [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/) <small>[Software Carpentry]</small>
-* Version control: [Why should I use version control?](https://stackoverflow.com/q/1408450) <small>[Stack Overflow]</small>
-* Command line: [Five reasons why researchers should learn to love the command line](https://www.nature.com/articles/d41586-021-00263-0) <small>[Nature]</small>
-* Text editor: [Text Editors and Development Environments](https://github.com/csdms/ivy/tree/main/lessons/editors) <small>[CSDMS Ivy]</small>
-* Sharing code: [_The Cathedral and the Bazaar_](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) <small>[Wikipedia]</small>
