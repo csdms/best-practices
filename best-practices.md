@@ -66,3 +66,52 @@ _[CSDMS](https://csdms.colorado.edu)_
 1. Use the command line
 1. Learn a text editor
 1. Share code
+
+Note: Extended recommendations follow, if students are interested.
+
+---
+
+6
+## Test code
+
+---
+
+7
+## Write documentation
+
+---
+
+8
+## Use libraries
+
+---
+
+9
+## Script everything
+
+---
+
+10
+## Premature optimization<br>is the root of all evil
+
+> -- Donald Knuth
+
+---
+
+## Summary
+
+6. Test code
+1. Write documentation
+1. Use libraries
+1. Script everything
+1. Make it work first
+
+---
+
+## Summary summary
+
+Best practices in geoscientific software development
+
+| Primary | Extended |
+| ------- | -------- |
+| <ol><li>Learn Python<li>Use version control<li>Use the command line<li>Learn a text editor<li>Share code</ol> | <ol start="6"><li>Test code<li>Write documentation<li>Use libraries<li>Script everything<li>Make it work first</ol> |
