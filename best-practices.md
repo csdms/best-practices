@@ -21,6 +21,8 @@ _[CSDMS](https://csdms.colorado.edu)_
 
 > [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)<br><small>[Software Carpentry]</small>
 
+Note: It's the de facto standard in the geosciences, and in the physical sciences in general. 
+
 ---
 
 2
@@ -29,6 +31,8 @@ _[CSDMS](https://csdms.colorado.edu)_
 \-
 
 > [Why should I use version control?](https://stackoverflow.com/q/1408450)<br><small>[Stack Overflow]</small>
+
+Note: Never lose code again.
 
 ---
 
@@ -39,6 +43,8 @@ _[CSDMS](https://csdms.colorado.edu)_
 
 > [Five reasons why researchers should learn to love the command line](https://www.nature.com/articles/d41586-021-00263-0)<br><small>[Nature]</small>
 
+Note: Boost your efficiency on file operations.
+
 ---
 
 4
@@ -48,6 +54,8 @@ _[CSDMS](https://csdms.colorado.edu)_
 
 > [Text Editors and Development Environments](https://github.com/csdms/ivy/tree/main/lessons/editors)<br><small>[CSDMS Ivy]</small>
 
+Note: Pick one, it doesn't matter which.
+
 ---
 
 5
@@ -56,6 +64,8 @@ _[CSDMS](https://csdms.colorado.edu)_
 \-
 
 > [The Cathedral and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)<br><small>[Eric S. Raymond; Wikipedia]</small>
+
+Note: This is an ongoing culture shift within the geosciences.
 
 ---
 
@@ -74,20 +84,28 @@ Note: Extended recommendations follow, if students are interested.
 6
 ## Test code
 
+Note: Catch problems before they happen.
+
 ---
 
 7
 ## Write documentation
+
+Note: Documentation is as important as code.
 
 ---
 
 8
 ## Use libraries
 
+Note: Don't reinvent the wheel.
+
 ---
 
 9
 ## Script everything
+
+Note: Don't repeat code.
 
 ---
 
@@ -95,6 +113,8 @@ Note: Extended recommendations follow, if students are interested.
 ## Premature optimization<br>is the root of all evil
 
 > -- Donald Knuth
+
+Note: First, make it work. Then, if needed, make it better.
 
 ---
 
