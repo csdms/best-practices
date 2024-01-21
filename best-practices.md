@@ -10,7 +10,10 @@ in geoscientific software development
 ~
 
 _Mark Piper and Eric Hutton_  
-_[CSDMS](https://csdms.colorado.edu)_
+
+<a href="https://csdms.colorado.edu">
+<img align="center" width="80px" style="margin:-10px 0 20px 0" src="./assets/CSDMS-logo-nocolor.png">
+</a>
 
 ---
 
