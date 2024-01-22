@@ -22,7 +22,7 @@ _Mark Piper and Eric Hutton_
 
 \-
 
-> [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)<br><small>[Software Carpentry]</small>
+[*Programming with Python*](https://swcarpentry.github.io/python-novice-inflammation/)<br><small>[Software Carpentry]</small>
 
 Note: It's the de facto standard in the geosciences, and in the physical sciences in general. 
 
@@ -33,7 +33,7 @@ Note: It's the de facto standard in the geosciences, and in the physical science
 
 \-
 
-> [Why should I use version control?](https://stackoverflow.com/q/1408450)<br><small>[Stack Overflow]</small>
+[*Why should I use version control?*](https://stackoverflow.com/q/1408450)<br><small>[Stack Overflow]</small>
 
 Note: Never lose code again.
 
@@ -44,7 +44,7 @@ Note: Never lose code again.
 
 \-
 
-> [Five reasons why researchers should learn to love the command line](https://www.nature.com/articles/d41586-021-00263-0)<br><small>[Nature]</small>
+[*Five reasons why researchers should learn to love the command line*](https://www.nature.com/articles/d41586-021-00263-0)<br><small>[Nature]</small>
 
 Note: Boost your efficiency on file operations.
 
@@ -55,7 +55,7 @@ Note: Boost your efficiency on file operations.
 
 \-
 
-> [Text Editors and Development Environments](https://github.com/csdms/ivy/tree/main/lessons/editors)<br><small>[CSDMS Ivy]</small>
+[*Text Editors and Development Environments*](https://github.com/csdms/ivy/tree/main/lessons/editors)<br><small>[CSDMS Ivy]</small>
 
 Note: Pick one, it doesn't matter which.
 
@@ -66,7 +66,7 @@ Note: Pick one, it doesn't matter which.
 
 \-
 
-> [The Cathedral and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)<br><small>[Eric S. Raymond; Wikipedia]</small>
+[*The Cathedral and the Bazaar*](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)<br><small>[Eric S. Raymond; Wikipedia]</small>
 
 Note: This is an ongoing culture shift within the geosciences.
 
@@ -115,7 +115,7 @@ Note: Don't repeat code.
 10
 ## Premature optimization<br>is the root of all evil
 
-> -- Donald Knuth
+*-- Donald Knuth*
 
 Note: First, make it work. Then, if needed, make it better.
 
