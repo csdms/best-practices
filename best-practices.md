@@ -26,6 +26,12 @@ _Mark Piper and Eric Hutton_
 
 Note: It's the de facto standard in the geosciences, and in the physical sciences in general. 
 
+----
+
+* Dominant language in many disciplines
+* Heavily used outside of science
+* Programming organizes thinking!
+
 ---
 
 2
@@ -36,6 +42,12 @@ Note: It's the de facto standard in the geosciences, and in the physical science
 [*Why should I use version control?*](https://stackoverflow.com/q/1408450)<br><small>[Stack Overflow]</small>
 
 Note: Never lose code again.
+
+----
+
+* Never lose code again
+* Saves time in the long run
+* Super important for coordinating team projects
 
 ---
 
@@ -48,6 +60,12 @@ Note: Never lose code again.
 
 Note: Boost your efficiency on file operations.
 
+----
+
+* Boosts your efficiency on file operations
+* You can type faster than you can mouse and click
+* Available on all operating systems
+
 ---
 
 4
@@ -59,6 +77,12 @@ Note: Boost your efficiency on file operations.
 
 Note: Pick one, it doesn't matter which.
 
+----
+
+* Text editors have tools to help write code better/faster
+* Plain text vs. rich text
+* Text editors and development environments
+
 ---
 
 5
@@ -69,6 +93,11 @@ Note: Pick one, it doesn't matter which.
 [*The Cathedral and the Bazaar*](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)<br><small>[Eric S. Raymond; Wikipedia]</small>
 
 Note: This is an ongoing culture shift within the geosciences.
+
+----
+
+* This is an ongoing culture shift within the geosciences
+* I use other people's code (with attribution) all the time for my job
 
 ---
 
