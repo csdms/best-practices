@@ -46,7 +46,7 @@ Note: Never lose code again.
 ----
 
 * Never lose code again
-* Saves time in the long run
+* Track changes while coding
 * Super important for coordinating [team projects](https://github.com/landlab/landlab/)
 
 ---
@@ -135,7 +135,7 @@ Note: Documentation is as important as code.
 
 * As important as code
 * Explain to others how your code works
-* Marketing!
+* Write for your *future self*
 
 ---
 
