@@ -47,7 +47,7 @@ Note: Never lose code again.
 
 * Never lose code again
 * Saves time in the long run
-* Super important for coordinating team projects
+* Super important for coordinating [team projects](https://github.com/landlab/landlab/)
 
 ---
 
