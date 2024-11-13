@@ -118,12 +118,24 @@ Note: Extended recommendations follow, if students are interested.
 
 Note: Catch problems before they happen.
 
+----
+
+* Code should have tests to ensure it produces expected results
+* Catch problems before they happen
+* Super important in team projects
+
 ---
 
 7
 ## Write documentation
 
 Note: Documentation is as important as code.
+
+----
+
+* As important as code
+* Explain to others how your code works
+* Marketing!
 
 ---
 
@@ -132,6 +144,13 @@ Note: Documentation is as important as code.
 
 Note: Don't reinvent the wheel.
 
+----
+
+* Don't reinvent the wheel
+* The other end of "share your code"
+* Documentation is critical
+* The entire scientific software ecosystem is built on libraries (on libraries, on libraries, ...)
+
 ---
 
 9
@@ -139,14 +158,24 @@ Note: Don't reinvent the wheel.
 
 Note: Don't repeat code.
 
+----
+
+* Don't repeat code
+* If you have to do something more than once, script it
+
 ---
 
 10
-## Premature optimization<br>is the root of all evil
+## "Premature optimization<br>is the root of all evil"
 
 *-- Donald Knuth*
 
 Note: First, make it work. Then, if needed, make it better.
+
+----
+
+* First, make it work
+* Then, if needed, make it better
 
 ---
 
