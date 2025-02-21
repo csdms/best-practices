@@ -28,8 +28,8 @@ Note: It's the de facto standard in the geosciences, and in the physical science
 
 ----
 
-* Dominant language in many disciplines
-* Heavily used outside of science
+* Dominant language in many scientific disciplines
+* Heavily used [everywhere](https://www.tiobe.com/tiobe-index/), even outside of science
 * Programming organizes thinking!
 
 ---
@@ -46,8 +46,8 @@ Note: Never lose code again.
 ----
 
 * Never lose code again
-* Track changes while coding
-* Super important for coordinating [team projects](https://github.com/landlab/landlab/)
+* Track changes while developing code
+* Coordinate [team projects](https://github.com/landlab/landlab/) effectively
 
 ---
 
@@ -79,9 +79,9 @@ Note: Pick one, it doesn't matter which.
 
 ----
 
-* Text editors have tools to help write code better/faster
-* Plain text vs. rich text
-* Text editors and development environments
+* Text editors are used to write code; they include tools to write better/faster
+* Pick one, it doesn't matter which
+* Development environments include additional tools, with increased complexity
 
 ---
 
@@ -96,8 +96,8 @@ Note: This is an ongoing culture shift within the geosciences.
 
 ----
 
-* This is an ongoing culture shift within the geosciences
-* I use other people's code (with attribution) all the time for my job
+* There is an ongoing culture shift within the geosciences
+* At CSDMS, we use other people's code (with attribution) all the time
 
 ---
 
