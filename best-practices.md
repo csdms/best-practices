@@ -121,8 +121,8 @@ Note: Catch problems before they happen.
 ----
 
 * Code should have tests to ensure it produces expected results
-* Catch problems before they happen
-* Super important in team projects
+* Automatically catch problems
+* Important for [team projects](https://github.com/landlab/landlab/tree/master/tests)
 
 ---
 
@@ -133,7 +133,7 @@ Note: Documentation is as important as code.
 
 ----
 
-* As important as code
+* Documentation is as important as code
 * Explain to others how your code works
 * Write for your *future self*
 
@@ -149,19 +149,19 @@ Note: Don't reinvent the wheel.
 * Don't reinvent the wheel
 * The other end of "share your code"
 * Documentation is critical
-* The entire scientific software ecosystem is built on libraries (on libraries, on libraries, ...)
+* The [entire scientific software ecosystem](https://xkcd.com/2347/) is built on libraries (on libraries, on libraries, ...)
 
 ---
 
 9
-## Script everything
+## Modularize
 
 Note: Don't repeat code.
 
 ----
 
 * Don't repeat code
-* If you have to do something more than once, script it
+* If you have to do something more than once, write a function
 
 ---
 
@@ -184,7 +184,7 @@ Note: First, make it work. Then, if needed, make it better.
 6. Test code
 1. Write documentation
 1. Use libraries
-1. Script everything
+1. Modularize
 1. Make it work first
 
 ---
@@ -195,4 +195,4 @@ Best practices in geoscientific software development
 
 | Primary | Extended |
 | ------- | -------- |
-| <ol><li>Learn Python<li>Use version control<li>Use the command line<li>Learn a text editor<li>Share code</ol> | <ol start="6"><li>Test code<li>Write documentation<li>Use libraries<li>Script everything<li>Make it work first</ol> |
+| <ol><li>Learn Python<li>Use version control<li>Use the command line<li>Learn a text editor<li>Share code</ol> | <ol start="6"><li>Test code<li>Write documentation<li>Use libraries<li>Modularize<li>Make it work first</ol> |
