@@ -97,6 +97,7 @@ Note: This is an ongoing culture shift within the geosciences.
 ----
 
 * There is an ongoing culture shift within the geosciences
+* Sharing allows for feedback and improvement
 * At CSDMS, we use other people's code (with attribution) all the time
 
 ---
@@ -162,6 +163,8 @@ Note: Don't repeat code.
 
 * Don't repeat code
 * If you have to do something more than once, write a function
+* If a function is longer than a screen, it's too long
+* If "and" is used to describe a function, it's two functions
 
 ---
 
