@@ -9,7 +9,7 @@ in geoscientific software development
 
 ~
 
-_Mark Piper and Eric Hutton_  
+_Mark Piper, Eric Hutton, and Greg Tucker_  
 
 <a href="https://csdms.colorado.edu">
 <img align="center" width="80px" style="margin:-10px 0 20px 0" src="./assets/CSDMS-logo-nocolor.png">
