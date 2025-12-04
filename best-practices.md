@@ -169,6 +169,27 @@ Note: Don't repeat code.
 ---
 
 10
+## Use generative AI tools, sparingly
+
+Note: Well, the cat's out of the bag
+
+----
+
+* They work! (but how do you know they work?)
+* Costly resource use
+
+---
+
+## Summary
+
+6. Test code
+1. Write documentation
+1. Use libraries
+1. Modularize
+1. Use AI tools, sparingly
+
+---
+
 ## "Premature optimization<br>is the root of all evil"
 
 *-- Donald Knuth*
@@ -182,20 +203,10 @@ Note: First, make it work. Then, if needed, make it better.
 
 ---
 
-## Summary
-
-6. Test code
-1. Write documentation
-1. Use libraries
-1. Modularize
-1. Make it work first
-
----
-
 ## Summary summary
 
 Best practices in geoscientific software development
 
 | Primary | Extended |
 | ------- | -------- |
-| <ol><li>Learn Python<li>Use version control<li>Use the command line<li>Learn a text editor<li>Share code</ol> | <ol start="6"><li>Test code<li>Write documentation<li>Use libraries<li>Modularize<li>Make it work first</ol> |
+| <ol><li>Learn Python<li>Use version control<li>Use the command line<li>Learn a text editor<li>Share code</ol> | <ol start="6"><li>Test code<li>Write documentation<li>Use libraries<li>Modularize<li>Use AI, sparingly</ol> |
