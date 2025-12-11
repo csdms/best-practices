@@ -17,6 +17,12 @@ _Mark Piper, Eric Hutton, and Greg Tucker_
 
 ---
 
+"A *best practice* is a method or technique that has been generally accepted as superior to alternatives because it tends to produce superior results."
+
+-- Wikipedia, [Best practice](https://en.wikipedia.org/wiki/Best_practice)
+
+---
+
 1
 ## Learn Python
 
