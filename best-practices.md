@@ -181,8 +181,13 @@ Note: Well, the cat's out of the bag
 
 ----
 
-* They work! (but how do you know they work?)
-* Costly resource use
+Generative AI tools: useful, but with valid criticisms.
+
+| Pro | Con |
+| --- | --- |
+| <ul><li>They work!<li>Becoming "normal technology"<br><br><br><br></ul> | <ul><li>How do you know they work?<li>Costly resource use<li>Unlicensed use of copyrighted material<li>Corporate control</ul> |
+
+AGU guidance: *[Ethical and Responsible Use of AI/ML in the Earth, Space, and Environmental Sciences](https://doi.org/10.22541/essoar.168132856.66485758/v1)* [essopenarchive.org]
 
 ---
 
