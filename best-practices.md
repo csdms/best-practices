@@ -211,4 +211,4 @@ Best practices in geoscientific software development
 
 | Primary | Extended |
 | ------- | -------- |
-| <ol><li>Learn Python<li>Use version control<li>Use the command line<li>Learn a text editor<li>Share code</ol> | <ol start="6"><li>Test code<li>Write documentation<li>Use libraries<li>Modularize<li>Make it work first</ol> |
+| <ol><li>Learn Python<li>Use version control<li>Use the command line<li>Share code<li>Use AI tools, sparingly</ol> | <ol start="6"><li>Test code<li>Write documentation<li>Use libraries<li>Modularize<li>Make it work first</ol> |
