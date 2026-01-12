@@ -123,6 +123,10 @@ Note: Extended recommendations follow, if students are interested.
 
 ---
 
+Extended recommendations →
+
+---
+
 6
 ## Test code
 
