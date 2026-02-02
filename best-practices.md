@@ -17,6 +17,12 @@ _Mark Piper, Eric Hutton, and Greg Tucker_
 
 ---
 
+"A *best practice* is a method or technique that has been generally accepted as superior to alternatives because it tends to produce superior results."
+
+-- Wikipedia, [Best practice](https://en.wikipedia.org/wiki/Best_practice)
+
+---
+
 1
 ## Learn Python
 
@@ -69,23 +75,6 @@ Note: Boost your efficiency on file operations.
 ---
 
 4
-## Learn a text editor
-
-\-
-
-[*Text Editors and Development Environments*](https://github.com/csdms/ivy/tree/main/lessons/editors)<br><small>[CSDMS Ivy]</small>
-
-Note: Pick one, it doesn't matter which.
-
-----
-
-* Text editors are used to write code; they include tools to write better/faster
-* Pick one, it doesn't matter which
-* Development environments include additional tools, with increased complexity
-
----
-
-5
 ## Share code
 
 \-
@@ -102,15 +91,39 @@ Note: This is an ongoing culture shift within the geosciences.
 
 ---
 
+5
+## Use generative AI tools, sparingly
+
+\-
+
+[*Ethical and Responsible Use of AI/ML in the Earth, Space, and Environmental Sciences*](https://doi.org/10.22541/essoar.168132856.66485758/v1)<br><small>[American Geophysical Union]</small>
+
+Note: Well, the cat's out of the bag
+
+----
+
+Generative AI tools: useful, but with heavy criticisms.
+
+| Pro | Con |
+| --- | --- |
+| <ul><li>They work!<li>Becoming "normal technology"<br><br><br><br></ul> | <ul><li>How do you know they work?<li>Costly resource use<li>Unlicensed use of copyrighted material<li>Corporate control</ul> |
+
+---
+
 ## Summary
 
 1. Learn Python
 1. Use version control
 1. Use the command line
-1. Learn a text editor
 1. Share code
+1. Use AI tools, sparingly
+
 
 Note: Extended recommendations follow, if students are interested.
+
+---
+
+Extended recommendations →
 
 ---
 
@@ -198,4 +211,4 @@ Best practices in geoscientific software development
 
 | Primary | Extended |
 | ------- | -------- |
-| <ol><li>Learn Python<li>Use version control<li>Use the command line<li>Learn a text editor<li>Share code</ol> | <ol start="6"><li>Test code<li>Write documentation<li>Use libraries<li>Modularize<li>Make it work first</ol> |
+| <ol><li>Learn Python<li>Use version control<li>Use the command line<li>Share code<li>Use AI tools, sparingly</ol> | <ol start="6"><li>Test code<li>Write documentation<li>Use libraries<li>Modularize<li>Make it work first</ol> |
